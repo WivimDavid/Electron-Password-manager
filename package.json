@@ -1,0 +1,16 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Aula youtube https://www.youtube.com/watch?v=i6t2jaRxos4 , ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wivim_tech@outlook.com"
+  },
+  "author": "Wivim David",
+  "license": "MIT"
+}
