@@ -1,1 +1,1 @@
-Primeiro App Desktop Gerador de senhas
+App Desktop Gerador de senhas criado com electron
