@@ -6,7 +6,7 @@ App Desktop Gerador de senhas criado com electron
 
 Para rodar o projeto local
 
-1 - clone o repositório
+1 - clone o repositório <br>
 2 - Execute *npm start* na pasta do projeto. 
 
 
