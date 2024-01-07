@@ -3,7 +3,7 @@
 <img class="logo projeto" src="./assets/gerador de senhas app electron.png" alt="foto-projeto"/>
 
 
-## Technologies utilizadas:
+## Tecnologias utilizadas:
 <br>
 <br>
 <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-badges" />
