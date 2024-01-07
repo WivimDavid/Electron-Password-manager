@@ -14,9 +14,9 @@ Technologies utilizadas:
 
 ## Para executar o projeto
 
-1 - clone o repositório 
+1️⃣ - Clone o repositório 
 
-2 -  Abra a pasta do projeto e execute :
+2️⃣-  Abra a pasta do projeto e execute :
 
 ```sh
 npm start
