@@ -12,11 +12,15 @@ Technologies utilizadas:
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-badges"/>
 
-Para rodar o projeto local
+## Para executar o projeto
 
 1 - clone o repositório 
 
-2 - Execute *npm start* dentro da pasta do projeto. 
+2 -  Abra a pasta do projeto e execute :
+
+```sh
+npm start
+```
 
 
 
