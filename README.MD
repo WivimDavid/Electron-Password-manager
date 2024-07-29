@@ -26,7 +26,7 @@ node -v
 npm -v
 ```
 
- ##Clone o repositório 
+## Clone o repositório 
 
  Entre na pasta do projeto e execute o comando para inicializar o pacote NPM:
 
