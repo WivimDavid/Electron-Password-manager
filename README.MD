@@ -14,7 +14,7 @@
 
 ## Para executar o projeto
 
-##Pré-requisitos
+## Pré-requisitos
 Para usar o Electron, você precisa instalar o Node.js. Recomendamos que você use a versão mais recente disponível do LTS.
 
 Por favor, instale o Node.js usando instaladores específicos para sua plataforma. Caso contrário, você pode encontrar problemas de incompatibilidade com ferramentas de desenvolvimento diferentes.
