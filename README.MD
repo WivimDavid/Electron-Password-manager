@@ -14,10 +14,32 @@
 
 ## Para executar o projeto
 
-1️⃣ - Clone o repositório 
+##Pré-requisitos
+Para usar o Electron, você precisa instalar o Node.js. Recomendamos que você use a versão mais recente disponível do LTS.
 
-2️⃣-  Abra a pasta do projeto e execute :
+Por favor, instale o Node.js usando instaladores específicos para sua plataforma. Caso contrário, você pode encontrar problemas de incompatibilidade com ferramentas de desenvolvimento diferentes.
 
+Para verificar se o Node.js está instalado corretamente, digite os seguintes comandos em seu terminal de comando:
+
+```sh
+node -v
+npm -v
+```
+
+ ##Clone o repositório 
+
+ Entre na pasta do projeto e execute o comando para inicializar o pacote NPM:
+
+```sh
+npm init
+```
+Em seguida, instale o pacote electron nas devDependencies do seu aplicativo.
+
+```sh
+npm install --save-dev electron
+```
+
+Este comando start permitirá que você abra seu aplicativo em modo de desenvolvimento.
 ```sh
 npm start
 ```
