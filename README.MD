@@ -28,11 +28,6 @@ npm -v
 
 ## Clone o repositório 
 
- Entre na pasta do projeto e execute o comando para inicializar o pacote NPM:
-
-```sh
-npm init
-```
 Em seguida, instale o pacote electron nas devDependencies do seu aplicativo.
 
 ```sh
